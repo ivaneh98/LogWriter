@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLCecZ0TaQrcbnqQp5hzCH3sRceJVaIt1VBiBctDzfdVP0n2w/oRFxjnKAuZwFuAxKIEIy2s0AtCuWd+B+OxQQ==",
+  "success": true,
+  "projectFilePath": "D:\\gitProjects\\LogWriter\\LogWriterTest\\LogWriterTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivaneh\\.nuget\\packages\\microsoft.data.sqlite\\6.0.6\\microsoft.data.sqlite.6.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ivaneh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

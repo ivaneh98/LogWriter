@@ -1,0 +1,12 @@
+D:\gitProjects\LogWriter\LogWriter\bin\Debug\net6.0\LogWriter.deps.json
+D:\gitProjects\LogWriter\LogWriter\bin\Debug\net6.0\LogWriter.dll
+D:\gitProjects\LogWriter\LogWriter\bin\Debug\net6.0\LogWriter.pdb
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.csproj.AssemblyReference.cache
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.AssemblyInfoInputs.cache
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.AssemblyInfo.cs
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.csproj.CoreCompileInputs.cache
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.dll
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\refint\LogWriter.dll
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\LogWriter.pdb
+D:\gitProjects\LogWriter\LogWriter\obj\Debug\net6.0\ref\LogWriter.dll
